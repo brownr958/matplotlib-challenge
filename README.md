@@ -10,7 +10,7 @@ using matplotlib and pandas.
 
 The following is a description of the files within this repository and their location:
 
-1. Pymacuiticals folder: This folder is locatied within the "matplotlib-challenge" folder and contains all of
+1. Pymacuiticals folder: This folder is located within the "matplotlib-challenge" folder and contains all of
 the files necessary for this analysis.
 
 2. Mouse_metadata: This file is located within Pymacuiticals -> data. This CSV file contains information on 
